@@ -1,3 +1,4 @@
+[View English README](https://github.com/realYulin/realyulin.github.io/blob/main/readme_en.md)
 # 关于
 暂时没有想好介绍
 # 页面许可
