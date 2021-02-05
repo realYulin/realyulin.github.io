@@ -1,4 +1,4 @@
-[查看中文版README](https://github.com/realYulin/realyulin.github.io/blob/main/readme.md)
+[查看中文版README](./readme.md)
 # ABOUT
 Temporary none
 # LICENSE
